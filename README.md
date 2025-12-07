@@ -1,0 +1,52 @@
+# NMIXX – High Horse
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Sick of that high horse,
+I just can't take it no more
+텅 빈 대화
+I'm lost and found
+판단하지 what you are
+쉽게 말해 다 who you are, oh
+내 귀엔 their lies,
+I hear what's inside
+So let's ride to the front line
+갈 수 있는 가장 끝까지
+너와 더 멀리
+To end up where
+we're meant to be
+Heartbreak 지겨워
+눈뜨기 싫은 every morning
+Run away 비좁은 frame
+Heartbreak 지겨워
+눈뜨기 싫은 every morning
+Run away 비좁은 frame
+내려다보는
+따가운 시선
+뛰어넘어
+Go on, go on
+They can't tell you what you are
+if y'already know who you are,
+oh
+I will love you
+when all is gone
+So let's ride to the front line
+갈 수 있는 가장 끝까지
+너와 더 멀리
+To end up where
+we're meant to be
+So let's ride to the front line
+익숙한 곳을 벗어나
+너와 있을게
+꿈꾼 적 없는 곳까지
+Lights flash, bass drop
+Baby, I'm on whatever
+Hands up, heartbeats
+No telling where I'll go
+Heartquake 눈을 떠
+웅크렸던 every morning
+Run away, do it my way
+Sick of that high horse,
+our minds don't work like theirs
+```
