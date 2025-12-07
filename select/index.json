@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "High Horse",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-07T10:17:02.665334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Kacey Musgraves",
+      "has_synced": true,
+      "path": "select/01_High_Horse_Kacey_Musgraves.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Nelly feat. BRELAND & Blanco Brown",
+      "has_synced": true,
+      "path": "select/02_High_Horse_Nelly_feat._BRELAND_&_Blanco_Brown.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/03_High_Horse_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": false,
+      "path": "select/04_High_Horse_The_Nitty_Gritty_Dirt_Band.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High Horse (Album Version)",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": false,
+      "path": "select/05_High_Horse_(Album_Version)_The_Nitty_Gritty_Dirt_Band.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Get Off Your) High Horse Lady",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_(Get_Off_Your)_High_Horse_Lady_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mine's Not a High Horse",
+      "artist": "The Shins",
+      "has_synced": true,
+      "path": "select/07_Mine's_Not_a_High_Horse_The_Shins.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Nelly, Breland, Blanco Brown",
+      "has_synced": true,
+      "path": "select/08_High_Horse_Nelly,_Breland,_Blanco_Brown.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Oceans Ate Alaska",
+      "has_synced": false,
+      "path": "select/09_High_Horse_Oceans_Ate_Alaska.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Wage War",
+      "has_synced": true,
+      "path": "select/10_High_Horse_Wage_War.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(Get Off Your) High Horse Lady",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_(Get_Off_Your)_High_Horse_Lady_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "The Nitty Gritty Dirt Band",
+      "has_synced": true,
+      "path": "select/12_High_Horse_The_Nitty_Gritty_Dirt_Band.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "The Vaccines",
+      "has_synced": true,
+      "path": "select/13_High_Horse_The_Vaccines.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "High (Horse)",
+      "artist": "Jebediah",
+      "has_synced": false,
+      "path": "select/14_High_(Horse)_Jebediah.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Mannequin Pussy",
+      "has_synced": true,
+      "path": "select/15_High_Horse_Mannequin_Pussy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "High Horse - Kue Remix",
+      "artist": "Kacey Musgraves feat. DJ Kue",
+      "has_synced": false,
+      "path": "select/16_High_Horse_-_Kue_Remix_Kacey_Musgraves_feat._DJ_Kue.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Wage War",
+      "has_synced": true,
+      "path": "select/17_High_Horse_Wage_War.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "High Horse - Kue Remix",
+      "artist": "Kacey Musgraves/DJ Kue",
+      "has_synced": false,
+      "path": "select/18_High_Horse_-_Kue_Remix_Kacey_Musgraves_DJ_Kue.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "High Horse",
+      "artist": "Tony Joe White",
+      "has_synced": false,
+      "path": "select/19_High_Horse_Tony_Joe_White.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "High Horse",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_High_Horse_NMIXX.txt"
+    }
+  ]
+}
